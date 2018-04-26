@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://devanyahya.web.id/tvg-logo/gtv.png",GLOBAL TV
-http://win.stream.netmedia.co.id/live/nettv.m3u8
+https://www.youtube.com/embed/cgHLDHbbV6k?autoplay=1&rel=0&controls=1&showinfo=0
 
 #EXTINF:-1 tvg-logo="http://devanyahya.web.id/tvg-logo/gtv.png",GLOBAL TV
 https://cdn-livetv1.metube.id/hls/globaltv.m3u8
