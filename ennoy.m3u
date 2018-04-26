@@ -49,63 +49,14 @@ https://devanyahya.web.id/iptv/spacetoon.m3u8
 https://cdn-livetv1.metube.id/hls/mncmuslim.m3u8
 
 
-
-
 #EXTINF:-1 tvg-ID="" tvg-name="Metro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png" group-title="News",Metro TV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="MNC News" tvg-logo="http://www.mncchannels.com/files/logo/1432776307_logo_news.png" group-title="News",MNC News
-https://cdn-livetv1.metube.id/hls/mncnews.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="MNC Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/76/MNC_Entertainment.svg/500px-MNC_Entertainment.svg.png" group-title="News",MNC Entertainment
-https://cdn-livetv1.metube.id/hls/mncentertainment.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="MNC Infotainment" tvg-logo="http://www.mncchannels.com/files/logo/1432784559_logo_infotaiment%20300x96.png" group-title="News",MNC Infotainment
-https://cdn-livetv1.metube.id/hls/mncinfotainment.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="MNC Life" tvg-logo="https://vignette.wikia.nocookie.net/tolololpedia/images/8/8f/MNC_Lifestyle.png/revision/latest?cb=20130228131831" group-title="News",MNC Life Style
-https://cdn-livetv1.metube.id/hls/mnclifestyle.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="MNC Shop" tvg-logo="http://img.mncshop.co.id/resources/ms/image/common/h1_logo.png" group-title="News",MNC Shop
-https://cdn-livetv1.metube.id/hls/mncshop.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="CNN Indo" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="News",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="iNews" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png" group-title="News",iNews
 https://kmklive-lh.akamaihd.net/i/inewstv_live@94479/master.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="Food Travel" tvg-logo="http://www.mncchannels.com/files/logo/1434682386_logo_FOOD-TRAVEL.png" group-title="News",Food & Travel
-https://cdn-livetv1.metube.id/hls/foodtravel.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="Auto Gadget" tvg-logo="http://www.mncchannels.com/files/logo/1433314462_logo_autogadget.png" group-title="News",Auto & Gadget
-https://cdn-livetv1.metube.id/hls/autogadget.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="Life" tvg-logo="https://www.anugrah.net/wp-content/uploads/2014/08/Logo-Life_blue.png" group-title="News",Life
-https://cdn-livetv1.metube.id/hls/life.m3u8
-
-
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="MNC Sport" tvg-logo="http://www.mncchannels.com/files/logo/1442313335_logo_1434697345_logo_MNC-SPORT.png" group-title="Sport",MNC Sport
-https://cdn-livetv1.metube.id/hls/mncsport.m3u8
-
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="MNC Movie" tvg-logo="http://www.mncchannels.com/files/logo/1434682537_logo_MOVIE-CHANNEL.png" group-title="Movie",Movie Channel
-https://cdn-livetv1.metube.id/hls/mncmovie.m3u8
-
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="Music Channel" tvg-logo="http://www.mncchannels.com/files/logo/1434682878_logo_MUSIC-CHANNEL.png" group-title="Music",Music Channel
-https://cdn-livetv1.metube.id/hls/musicchannel.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="Comedy Channel" tvg-logo="http://www.mncchannels.com/files/logo/1434682767_logo_COMEDY-CHANNEL.png" group-title="Lainnya",Comedy Channel
-https://cdn-livetv1.metube.id/hls/comedy.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="Games Channel" tvg-logo="https://cdn-static.metube.id/covers/channels/P6CsRUMi3PsWyOZjifLh.png" group-title="Lainnya",Games Channel
-https://cdn-livetv1.metube.id/hls/gameschannel.m3u8
-
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="Thor: Ragnarok" tvg-logo="http://grandentertainment.ro/sites/default/files/100925-thor-3-print-poster-a1-payoff-no-imax-compres.jpg" group-title="General Movies",Thor: Ragnarok
