@@ -72,8 +72,6 @@ http://sg.ganteng.stream:8888/movie/glorynet/5826/157.MKV
 
 #EXTINF:-1 tvg-ID="" tvg-name="NET TV HD" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Lokal",NET TV HD
 http://sg.ganteng.stream:8888/live/mahfudz69/trialkamis/78.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Baby Channel" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043" group-title="Kids",Baby Channel
-http://sg.ganteng.stream:8888/live/mahfudz69/trialkamis/126.ts
 #EXTINF:-1 tvg-ID="" tvg-name="My Kids" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043" group-title="Kids",My Kids
 http://sg.ganteng.stream:8888/live/mahfudz69/trialkamis/16.ts
 #EXTINF:-1 tvg-ID="" tvg-name="T Music" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Music",T Music
@@ -102,12 +100,8 @@ http://sg.ganteng.stream:8888/live/mahfudz69/trialkamis/56.ts
 http://sg.ganteng.stream:8888/live/mahfudz69/trialkamis/98.ts
 #EXTINF:-1 tvg-ID="" tvg-name="FOX Action" tvg-logo="http://truebusiness.truecorp.co.th/images/logo/Channels/FAMlogotvs.png" group-title="Movie",FOX Action
 http://sg.ganteng.stream:8888/live/mahfudz69/trialkamis/99.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO" group-title="Movie",HBO
-http://sg.ganteng.stream:8888/live/mahfudz69/trialkamis/210.ts
 #EXTINF:-1 tvg-ID="" tvg-name="HBO Asia" group-title="Movie",HBO Asia
 http://sg.ganteng.stream:8888/live/mahfudz69/trialkamis/215.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Disney" group-title="Kids",Disney
-http://sg.ganteng.stream:8888/live/mahfudz69/trialkamis/213.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Cartoon" group-title="Kids",Cartoon
 http://sg.ganteng.stream:8888/live/mahfudz69/trialkamis/214.ts
 #EXTINF:-1 tvg-ID="" tvg-name="FOX Sport 1" tvg-logo="http://j2-play.tv/cover/live/sport/foxsport1.png" group-title="Sport",FOX Sport 1
