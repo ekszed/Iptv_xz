@@ -25,7 +25,7 @@ https://kmklive-lh.akamaihd.net/i/antv_live@577566/master.m3u8
 https://cdn-livetv1.metube.id/hls/tvri.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="TV One" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f6/TvOne_Logo%282012%29.svg/500px-TvOne_Logo%282012%29.svg.png" group-title="Lokal",TV One
-https://kmklive-lh.akamaihd.net/i/tvone_live@577566/master.m3u8
+http://sg.ganteng.stream:8888/live/mahfudz69/trialkamis/29.ts
 
 #EXTINF:-1 tvg-ID="" tvg-name="MNC TV" tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="Lokal",MNC TV
 https://cdn-livetv1.metube.id/hls/mnctv.m3u8
