@@ -1,118 +1,230 @@
-#EXTM3U
+#EXTM3U Albdroid TV
 
-#EXTINF:-1 tvg-name="Dilan 1990" tvg-logo="https://goo.gl/iQYw8f" 						group-title="Bioskop Indo",	Dilan 1990
-	https://goo.gl/8Nxft3
-#EXTINF:-1 tvg-name="Hoax 2018" tvg-logo="https://goo.gl/RDvVYe" 						group-title="Bioskop Indo",	Hoax 2018
-	https://goo.gl/D1vAFD
-#EXTINF:-1 tvg-name="Kenapa harus bule?" tvg-logo="https://goo.gl/NhWs56" 				group-title="Bioskop Indo",	Kenapa harus bule?
-	https://goo.gl/inJU8p
-#EXTINF:-1 tvg-name="Ayat-ayat Cinta 2" tvg-logo="https://goo.gl/eDG7Ug" 				group-title="Bioskop Indo",	Ayat-ayat Cinta 2
-	https://goo.gl/uo3Ftb
-#EXTINF:-1 tvg-name="5 Cowok Jagoan" tvg-logo="https://goo.gl/Kme1EV" 					group-title="Bioskop Indo",	5 Cowok Jagoan
-	https://goo.gl/joKNyk
-#EXTINF:-1 tvg-name="Bukti Surat Cinta Starla" tvg-logo="https://goo.gl/awmEFP" 		group-title="Bioskop Indo",	Bukti Surat Cinta Starla
-	https://goo.gl/8pqwKs
-#EXTINF:-1 tvg-name="Suatu Hari Nanti" tvg-logo="https://goo.gl/ZrZuKA" 				group-title="Bioskop Indo",	Suatu Hari Nanti
-	https://goo.gl/iomHdD
-#EXTINF:-1 tvg-name="Mau Jadi Apa?" tvg-logo="https://goo.gl/XCSrWb" 					group-title="Bioskop Indo",	Mau Jadi Apa?
-	https://goo.gl/PJiQ2S
-#EXTINF:-1 tvg-name="Knight Kris (2017)" tvg-logo="https://goo.gl/EPDYo4" 				group-title="Bioskop Indo",	Knight Kris (2017)
-	https://goo.gl/4PuHCo
-#EXTINF:-1 tvg-name="Keluarga Tak Kasat Mata (2017)" tvg-logo="https://goo.gl/DCRZRu" 	group-title="Bioskop Indo",	Keluarga Tak Kasat Mata (2017)
-	https://goo.gl/wyHQhw
-
-#EXTINF:-1 tvg-name="Global TV" tvg-logo="https://goo.gl/AkLjfn" 						group-title="Lokal",	Global TV
-	https://cdn-livetv1.metube.id/hls/globaltv.m3u8
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://goo.gl/yYqAJ4" 							group-title="Lokal",	RCTI
-	https://cdn-livetv1.metube.id/hls/rcti.m3u8
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://goo.gl/DejfPt" 							group-title="Lokal",	SCTV
-	https://kmklive-lh.akamaihd.net/i/sctv_live@94479/master.m3u8
-#EXTINF:-1 tvg-name="Indosiar" tvg-logo="https://goo.gl/ym4Y9y" 						group-title="Lokal",	Indosiar
-	https://kmklive-lh.akamaihd.net/i/indosiar_live@94479/master.m3u8
-#EXTINF:-1 tvg-name="Trans 7" tvg-logo="https://goo.gl/eDP8HY" 							group-title="Lokal",	Trans 7
-	https://kmklive-lh.akamaihd.net/i/trans7_live@94476/master.m3u8
-#EXTINF:-1 tvg-name="Trans TV" tvg-logo="https://goo.gl/p2VmoY" 						group-title="Lokal",	Trans TV
-	https://kmklive-lh.akamaihd.net/i/transtv_live@94476/master.m3u8
-#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://goo.gl/APZshz" 							group-title="Lokal",	ANTV
-	https://kmklive-lh.akamaihd.net/i/antv_live@577566/master.m3u8
-#EXTINF:-1 tvg-name="Metro TV" tvg-logo="https://goo.gl/5uqiYK" 						group-title="Lokal",	Metro TV
-	http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TVRI" tvg-logo="https://goo.gl/jh4o4N" 							group-title="Lokal",	TVRI Nasional
-	https://cdn-livetv1.metube.id/hls/tvri.m3u8
-#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://goo.gl/tHtXdR" 							group-title="Lokal",	MNC TV
-	https://cdn-livetv1.metube.id/hls/mnctv.m3u8
-#EXTINF:-1 tvg-name="Kompas TV" tvg-logo="https://goo.gl/saUrus" 						group-title="Lokal",	Kompas TV
-	https://kmklive-lh.akamaihd.net/i/kompastv_live@586951/master.m3u8
-#EXTINF:-1 tvg-name="Rajawali TV" tvg-logo="https://goo.gl/F6w23e" 						group-title="Lokal", 	Rajawali TV
-	https://kmklive-lh.akamaihd.net/i/rtv_live@137568/master.m3u8
-#EXTINF:-1 tvg-name="Jak TV" tvg-logo="https://goo.gl/GQRSpk" 							group-title="Lokal",	Jak TV
-	https://kmklive-lh.akamaihd.net/i/jaktv_live@94476/master.m3u8
-#EXTINF:-1 tvg-name="OChannel" tvg-logo="https://goo.gl/tS59M1" 						group-title="Lokal",	OChannel
-	https://kmklive-lh.akamaihd.net/i/ochannel_live@94478/master.m3u8
-#EXTINF:-1 tvg-name="Spacetoon" tvg-logo="https://goo.gl/im4rsn" 						group-title="Lokal",	Spacetoon
-	https://devanyahya.web.id/iptv/spacetoon.m3u8
-#EXTINF:-1 tvg-name="MNC Muslim" tvg-logo="https://goo.gl/GfuFzb" 						group-title="Lokal",	MNC Muslim
-	https://cdn-livetv1.metube.id/hls/mncmuslim.m3u8
-
-
-#EXTINF:-1 tvg-name="CNN Indo" tvg-logo="https://goo.gl/pHWTp7" 						group-title="News",		CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="iNews" tvg-logo="https://goo.gl/yXuWCp" 							group-title="News",		iNews
-https://kmklive-lh.akamaihd.net/i/inewstv_live@94479/master.m3u8
-
-
-#EXTINF:-1 tvg-name="TV One" tvg-logo="https://goo.gl/4FSvaS" 				group-title="Lokal",	TV One
-							http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/29.ts
-#EXTINF:-1 tvg-name="NET TV" tvg-logo="https://goo.gl/QJ5hv2" 				group-title="Lokal",	NET TV
-							http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/78.ts
-#EXTINF:-1 tvg-name="JGO TV" tvg-logo="https://goo.gl/yoJcdc" 				group-title="Lokal",	JGO Tv
-							http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/56.ts
-#EXTINF:-1 tvg-name="Antara TV" tvg-logo="https://goo.gl/gWrcaZ" 			group-title="Lokal",	Antara Tv
-							http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/91.ts
-#EXTINF:-1 tvg-name="DAI TV" tvg-logo="https://goo.gl/PgKUyH" 				group-title="Lokal",	DAI Tv
-							http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/21.ts
-
-#EXTINF:-1 tvg-name="Berita Satu" tvg-logo="https://goo.gl/C3otkg" 			group-title="News",		Berita Satu
-							http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/136.ts
-
-#EXTINF:-1 tvg-name="My Kids" tvg-logo="https://goo.gl/uSHKFM" 				group-title="Kids",		My Kids
-							http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/16.ts
-#EXTINF:-1 tvg-name="Cartoon" tvg-logo="https://goo.gl/LArzi4" 				group-title="Kids",		Cartoon
-							http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/214.ts
-
-#EXTINF:-1 tvg-name="T Music" tvg-logo="https://goo.gl/s2CV7X" 				group-title="Music",	T Music
-							http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/184.ts
-#EXTINF:-1 tvg-name="Prambors" tvg-logo="https://goo.gl/qWwVC7" 			group-title="Music",	Prambors
-							http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/183.ts
-#EXTINF:-1 tvg-name="Music Indonesia" tvg-logo="https://goo.gl/TsRKCD" 		group-title="Music",	Music Indonesia
-							http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/72.ts
-#EXTINF:-1 tvg-name="Klik Music" tvg-logo="https://goo.gl/UTgjDC" 			group-title="Music",	Klik Music
-							http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/73.ts
-#EXTINF:-1 tvg-name="Dangdut" tvg-logo="https://goo.gl/6nmur7" 				group-title="Music",	Dangdut
-							http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/57.ts
-
-#EXTINF:-1 tvg-name="Bioskop Indonesia" tvg-logo="https://goo.gl/QW4ruY" 	group-title="Movie",	Bioskop Indonesia
-							http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/42.ts
-#EXTINF:-1 tvg-name="Z Bioskop" tvg-logo="https://goo.gl/Gn1p56" 			group-title="Movie",	Zee Bioskop
-							http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/7.ts
-#EXTINF:-1 tvg-name="FOX Movie" tvg-logo="https://goo.gl/e6mDUL" 			group-title="Movie",	FOX Movie
-							http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/98.ts
-#EXTINF:-1 tvg-name="FOX Action" tvg-logo="https://goo.gl/uRoaHs" 			group-title="Movie",	FOX Action
-							http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/99.ts
-#EXTINF:-1 tvg-name="HBO" tvg-logo="https://goo.gl/jZGgqU" 					group-title="Movie",	HBO
-							http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/210.ts
-
-#EXTINF:-1 tvg-name="FOX Sport 1" tvg-logo="https://goo.gl/5Skadp" 			group-title="Sport",	FOX Sport 1
-							http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/51.ts
-#EXTINF:-1 tvg-name="FOX Sport 2" tvg-logo="https://goo.gl/XNoca4" 			group-title="Sport",	FOX Sport 2
-							http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/102.ts
-#EXTINF:-1 tvg-name="FOX Sport 3" tvg-logo="https://goo.gl/MkG7nT" 			group-title="Sport",	FOX Sport 3
-							http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/101.ts
-#EXTINF:-1 tvg-name="BeiN Sport 1" tvg-logo="https://goo.gl/9yMTvi" 		group-title="Sport",	BeiN Sport 1
-							http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/10.ts
-#EXTINF:-1 tvg-name="BeiN Sport 2" tvg-logo="https://goo.gl/Qt3Hpt" 		group-title="Sport",	BeiN Sport 2
-							http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/11.ts
-#EXTINF:-1 tvg-name="BeiN Sport 3" tvg-logo="https://goo.gl/x8R4dq" 		group-title="Sport",	BeiN Sport 3
-							http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/12.ts
-				
+#EXTINF:-1 tvg-ID="" tvg-name="NET TV HD" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Lokal",NET TV HD
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/78.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI" tvg-logo="http://images2.useetv.com/logo_tvri_big1.png?v=1.0.0.0" group-title="News",TVRI
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/36.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trans TV HD" tvg-logo="http://images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0" group-title="Lokal",Trans TV HD
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/86.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trans TV" tvg-logo="http://images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0" group-title="Lokal",Trans TV
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/34.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trans 7 HD" tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="Lokal",Trans 7 HD
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/92.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trans 7" tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="Lokal",Trans 7
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/35.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SCTV" tvg-logo="http://images2.useetv.com/logo_sctv_big1.png?v=1.0.0.0" group-title="Lokal",SCTV
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/32.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NET TV" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Lokal",NET TV
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/24.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Indosiar" tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png?v=1.0.0.0" group-title="Lokal",Indosiar
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/33.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ANTV" tvg-logo="http://images2.useetv.com/logo_antv_big1.png?v=1.0.0.0" group-title="Lokal",ANTV
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/31.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MNC TV" tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="Lokal",MNC TV
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/27.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Global TV" tvg-logo="https://devanyahya.web.id/logo_globaltv_big1.png" group-title="Lokal",Global TV
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/26.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RCTI" tvg-logo="https://devanyahya.web.id/rctilogo.png" group-title="Lokal",RCTI
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/25.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rajawali TV" tvg-logo="http://images2.useetv.com/logo_rtv_big1.png?v=1.0.0.0" group-title="Lokal",Rajawali TV
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/37.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Spacetoon" tvg-logo="http://images2.useetv.com/logo_spacetoonplus_big1.png?v=1.0.0.0" group-title="Lokal",Spacetoon
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/59.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Baby TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043" group-title="",Baby TV
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/126.ts
+#EXTINF:-1 tvg-ID="" tvg-name="My Kids" tvg-logo="http://dens.tv/images/channel-logo/96.jpg" group-title="",My Kids
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/16.ts
+#EXTINF:-1 tvg-ID="" tvg-name="T Music" tvg-logo="http://images2.useetv.com/logo_allegro_big1.png?v=1.0.0.0" group-title="Music",T Music
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/184.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Prambors" tvg-logo="http://images2.useetv.com/logo_pramborstv_big1.png?v=1.0.0.0" group-title="Music",Prambors
+http://sg.ganteng.stream:8888/live/grioizzy/rioizzy/183.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Saluran Musik Indonesia" tvg-logo="" group-title="Music",Saluran Musik Indonesia
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/72.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Klik Music" tvg-logo="" group-title="Music",Klik Music
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/73.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bioskop Indonesia" tvg-logo="http://images2.useetv.com/logo_bioskopindonesia_big1.png?v=1.0.0.0" group-title="Movie",Bioskop Indonesia
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/42.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dunia Lain" tvg-logo="" group-title="Lokal",Dunia Lain
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/40.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MNC Muslim" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/MNCMuslim_baru.png" group-title="Lokal",MNC Muslim
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/149.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Life" tvg-logo="https://pbs.twimg.com/profile_images/585365841572597761/MNzt1_N0_400x400.jpg" group-title="Lokal",Life
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/140.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Reformed TV HD" tvg-logo="http://reformed21.tv/images/logo.png" group-title="Lokal",Reformed TV HD
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/148.ts
+#EXTINF:-1 tvg-ID="" tvg-name="U Channel" tvg-logo="http://dens.tv/images/channel-logo/76.jpg" group-title="Lokal",U Channel
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/151.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CNN Indonesia" tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="News",CNN Indonesia
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/44.ts
+#EXTINF:-1 tvg-ID="" tvg-name="iNews TV" tvg-logo="" group-title="News",iNews TV
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/206.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Berita Satu" tvg-logo="http://www.beritasatu.tv/images/logo.png" group-title="News",Berita Satu
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/136.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DW TV Asia" tvg-logo="" group-title="News",DW TV Asia
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/205.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV ONE" tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" group-title="News",TV ONE
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/29.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kompas TV" tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png?v=1.0.0.0" group-title="News",Kompas TV
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/30.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Metro TV" tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png?v=1.0.0.0" group-title="News",Metro TV
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/52.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bloomberg TV Asia" tvg-logo="http://www.ipo-book.com/wp-content/uploads/2011/04/Bloomberg-TV.jpg" group-title="News",Bloomberg TV Asia
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/137.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Jak TV" tvg-logo="http://images2.useetv.com/logo_jaktv_big1.png?v=1.0.0.0" group-title="Lokal",Jak TV
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/83.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Foodie" tvg-logo="https://images-channel.mivo.com/channel/image/87/img-live-foodie.jpg" group-title="Lokal",Foodie
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/204.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Antara TV" tvg-logo="http://images2.useetv.com/logo_antara_big1.png?v=1.0.0.0" group-title="Lokal",Antara TV
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/91.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Elshinta TV" tvg-logo="" group-title="Lokal",Elshinta TV
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/23.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rodja TV" tvg-logo="" group-title="Lokal",Rodja TV
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/22.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dangdutz" tvg-logo="" group-title="Music",Dangdutz
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/57.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DAAI TV" tvg-logo="http://images2.useetv.com/logo_daaitv_big1.png?v=1.0.0.0" group-title="Lokal",DAAI TV
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/21.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HI! TV" tvg-logo="http://images2.useetv.com/logo_hiindo_big1.png?v=1.0.0.0" group-title="Lokal",HI! TV
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/58.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IN TV" tvg-logo="http://images2.useetv.com/logo_intv_big1.png?v=1.0.0.0" group-title="Lokal",IN TV
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/77.ts
+#EXTINF:-1 tvg-ID="" tvg-name="JTV" tvg-logo="http://webtvonlive.com/wp-content/uploads/JTV-webtvonlive-com.jpg" group-title="Lokal",JTV
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/135.ts
+#EXTINF:-1 tvg-ID="" tvg-name="J'GO TV" tvg-logo="https://pbs.twimg.com/profile_images/378800000140413879/2363d730cb9aebf952ae08af7f29cf9f_400x400.jpeg" group-title="Movie",J'GO TV
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/56.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Gold Diamond" tvg-logo="https://lh3.googleusercontent.com/cT7QY53XWgUwH1tZTu5mjY61UuC3ZulZxgk0qi_ph-WEQOhtEts3dYF7-_1TMBKpDg=h900" group-title="Movie",Gold Diamond
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/69.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Red Diamond" tvg-logo="" group-title="Lokal",Red Diamond
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/70.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Black Diamond" tvg-logo="" group-title="Lokal",Black Diamond
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/74.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Avava Diamond" tvg-logo="" group-title="Lokal",Avava Diamond
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/75.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ABC Avava Bollywood" tvg-logo="" group-title="Movie",ABC Avava Bollywood
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/203.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Movies HD" tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="Movie",FOX Movies HD
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/98.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Action Movies HD" tvg-logo="http://truebusiness.truecorp.co.th/images/logo/Channels/FAMlogotvs.png" group-title="Movie",FOX Action Movies HD
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/99.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Family Movies HD" tvg-logo="http://whatson.dens.tv/media/img/fox-family-movies.jpg" group-title="Movie",FOX Family Movies HD
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/100.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Life HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/FOXLifeLA.png/revision/latest?cb=20171001074306" group-title="Movie",FOX Life HD
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/94.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX HD" tvg-logo="http://logok.org/wp-content/uploads/2014/10/FOX-TV-logo.png" group-title="Movie",FOX HD
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/95.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO HD" tvg-logo="" group-title="Movie",HBO HD
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/210.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Asia" tvg-logo="" group-title="Movie",HBO Asia
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/215.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="" group-title="Movie",HBO
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/216.ts
+#EXTINF:-1 tvg-ID="" tvg-name="National Geographic Channel HD" tvg-logo="http://j2-play.tv/cover/live/doc/nationalgeographic.png" group-title="Knowledge",National Geographic Channel HD
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/96.ts
+#EXTINF:-1 tvg-ID="" tvg-name="National Geographic Wild HD" tvg-logo="http://j2-play.tv/cover/live/doc/natgeowild.png" group-title="Knowledge",National Geographic Wild HD
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/97.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet" tvg-logo="" group-title="Knowledge",Animal Planet
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/229.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC News" tvg-logo="" group-title="News",BBC News
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/245.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony ONE" tvg-logo="http://images2.useetv.com/logo_sone_big1.png?v=1.0.0.0" group-title="Korea",Sony ONE
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/19.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Junior" tvg-logo="" group-title="",Disney Junior
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/213.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network" tvg-logo="" group-title="",Cartoon Network
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/214.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Aljazeera EN" tvg-logo="http://dens.tv/images/channel-logo/56.jpg" group-title="News",Aljazeera EN
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/89.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Aljazeera" tvg-logo="http://dens.tv/images/channel-logo/56.jpg" group-title="News",Aljazeera
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/88.ts
+#EXTINF:-1 tvg-ID="" tvg-name="K Plus" tvg-logo="http://images2.useetv.com/logo_kplus_big1.png?v=1.0.0.0" group-title="Korea",K Plus
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/18.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Sony_Channel_logo.png" group-title="Movie",Sony Channel
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/15.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SBS IN HD" tvg-logo="" group-title="Korea",SBS IN HD
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/13.ts
+#EXTINF:-1 tvg-ID="" tvg-name="KBS World" tvg-logo="" group-title="Korea",KBS World
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/133.ts
+#EXTINF:-1 tvg-ID="" tvg-name="K Drama" tvg-logo="" group-title="Korea",K Drama
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/14.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Da Vinci" tvg-logo="http://images2.useetv.com/logo_davinci_big1.png?v=1.0.0.0" group-title="Knowledge",Da Vinci
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/17.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Zee Bioskop" tvg-logo="http://images2.useetv.com/logo_zbioskop_big1.png?v=1.0.0.0" group-title="Movie",Zee Bioskop
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/7.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Thrill" tvg-logo="http://epg.serbianforum.org/logo_znaci/Thrill.png" group-title="Movie",Thrill
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/4.ts
+#EXTINF:-1 tvg-ID="" tvg-name="KIX" tvg-logo="https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpeg" group-title="Movie",KIX
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/8.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Celestial Movies" tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" group-title="Movie",Celestial Movies
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/5.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN" tvg-logo="http://epg.serbianforum.org/logo_znaci/AXN.png" group-title="Movie",AXN
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/9.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Aniplus" tvg-logo="http://images2.useetv.com/logo_aniplus_big1.png" group-title="Movie",Aniplus
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/2.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Movie",Animax
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/3.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trace Naija" tvg-logo="" group-title="Music",Trace Naija
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/113.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trace Urban" tvg-logo="" group-title="Music",Trace Urban
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/106.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trace Prime" tvg-logo="" group-title="Music",Trace Prime
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/107.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trace Mizki" tvg-logo="" group-title="Music",Trace Mizki
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/109.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trace Africa" tvg-logo="" group-title="Music",Trace Africa
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/108.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trace Tropical" tvg-logo="" group-title="Music",Trace Tropical
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/112.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trace Toca" tvg-logo="" group-title="Music",Trace Toca
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/111.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 1" tvg-logo="http://j2-play.tv/cover/live/sport/foxsport1.png" group-title="Sports",Fox Sports 1
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/51.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 2" tvg-logo="http://j2-play.tv/cover/live/sport/foxsport2.png" group-title="Sports",Fox Sports 2
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/102.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 3" tvg-logo="http://j2-play.tv/cover/live/sport/foxsport3.png" group-title="Sports",Fox Sports 3
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/101.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten Sports 1" tvg-logo="" group-title="Sports",Sony Ten Sports 1
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/53.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten Sports 2" tvg-logo="" group-title="Sports",Sony Ten Sports 2
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/54.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten Sports 3" tvg-logo="" group-title="Sports",Sony Ten Sports 3
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/55.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports 1" tvg-logo="https://www.sky.co.nz/documents/24003/641510/MK_beIN_SPORTS_1HD_NEW_250x180.png/e50fbf1a-9b1d-402c-8e43-7e6bcfb9715c?t=1485889360622" group-title="Sports",BeIN Sports 1
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/10.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports 2" tvg-logo="https://www.sky.co.nz/documents/24003/641510/MK_beIN_SPORTS_2_NEW_250x180.png/2ddeca6b-978d-4549-b322-1a22d1f07fc5?t=1485889369163" group-title="Sports",BeIN Sports 2
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/11.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sports",BeIN Sports 3
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/12.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports 4" tvg-logo="" group-title="Sports",BeIN Sports 4
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/217.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports 5" tvg-logo="" group-title="Sports",BeIN Sports 5
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/218.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports 6" tvg-logo="" group-title="Sports",BeIN Sports 6
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/219.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports 7" tvg-logo="" group-title="Sports",BeIN Sports 7
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/220.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports 8" tvg-logo="" group-title="Sports",BeIN Sports 8
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/221.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports 9" tvg-logo="" group-title="Sports",BeIN Sports 9
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/222.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Real Madrid TV" tvg-logo="" group-title="Sports",Real Madrid TV
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/244.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA TV" tvg-logo="" group-title="Sports",NBA TV
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/243.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Chelsea TV" tvg-logo="" group-title="Sports",Chelsea TV
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/242.ts
+#EXTINF:-1 tvg-ID="" tvg-name="WWE Network" tvg-logo="" group-title="Sports",WWE Network
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/223.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Golf Channel" tvg-logo="" group-title="Sports",Golf Channel
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/224.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sony Six HD" tvg-logo="" group-title="Sports",Sony Six HD
+http://sg.ganteng.stream:8888/live/rioizzy/rioizzy/225.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Thor: Ragnarok" tvg-logo="http://grandentertainment.ro/sites/default/files/100925-thor-3-print-poster-a1-payoff-no-imax-compres.jpg" group-title="General Movies",Thor: Ragnarok
+http://sg.ganteng.stream:8888/movie/rioizzy/rioizzy/181.MKV
+#EXTINF:-1 tvg-ID="" tvg-name="The Greatest Showman" tvg-logo="https://www.cgv.id/uploads/movie/compressed/MOV3419.jpg" group-title="General Movies",The Greatest Showman
+http://sg.ganteng.stream:8888/movie/rioizzy/rioizzy/158.MKV
+#EXTINF:-1 tvg-ID="" tvg-name="Jumanji: Welcome to the Jungle" tvg-logo="http://cinemaxx.cinemaxxtheater.com/Gallery/Movies/Thumbnail/Jumanji-wttj.jpg" group-title="General Movies",Jumanji: Welcome to the Jungle
+http://sg.ganteng.stream:8888/movie/rioizzy/rioizzy/155.MKV
+#EXTINF:-1 tvg-ID="" tvg-name="Maze Runner: The Death Cure" tvg-logo="https://i.imgur.com/K6dw8fh.jpg" group-title="General Movies",Maze Runner: The Death Cure
+http://sg.ganteng.stream:8888/movie/rioizzy/rioizzy/156.MKV
+#EXTINF:-1 tvg-ID="" tvg-name="Insidious: The Last Key" tvg-logo="https://yts.am/assets/images/movies/insidious_the_last_key_2018/large-cover.jpg" group-title="General Movies",Insidious: The Last Key
+http://sg.ganteng.stream:8888/movie/rioizzy/rioizzy/157.MKV
