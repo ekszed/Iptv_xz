@@ -1,7 +1,7 @@
 #EXTM3U GloryNet TV
 
 #EXTINF:-1 tvg-ID="" tvg-name="RCTI" tvg-logo="https://devanyahya.web.id/rctilogo.png" group-title="Lokal",RCTI
-https://cdn-livetv2.metube.id/hls/rcti.m3u8
+http://sg.ganteng.stream:8888/live/glorynet/5826/25.ts
 #EXTINF:-1 tvg-ID="" tvg-name="SCTV" tvg-logo="http://images2.useetv.com/logo_sctv_big1.png?v=1.0.0.0" group-title="Lokal",SCTV
 https://cdn-livetv1.metube.id/hls/sctv.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Trans TV" tvg-logo="http://images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0" group-title="Lokal",Trans TV
