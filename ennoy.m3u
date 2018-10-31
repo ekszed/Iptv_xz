@@ -4,7 +4,7 @@
 http://202.80.222.171:80/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2199220181031044049449274
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://i.pinimg.com/originals/a5/cf/b3/a5cfb3362821fb1160f474779ef0992b.png" group-title="LOKAL",RCTI
-http://202.80.222.171:80/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2197920181031050206445355
+http://202.80.222.171:80/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2201120181031052709459496
 
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="http://images2.useetv.com/logo_sctv_big1.png" group-title="LOKAL",SCTV
 http://202.80.222.171:80/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2201020181031045244431576
