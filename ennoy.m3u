@@ -7,7 +7,7 @@ http://202.80.222.171:80/000001/2/ch00000090990000001723/index.m3u8?virtualDomai
 https://cdn-livetv1.metube.id/hls/rcti.m3u8
 
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="http://images2.useetv.com/logo_sctv_big1.png" group-title="LOKAL",SCTV
-http://rr2.dens.tv/s/s03/index1.m3u8
+http://202.80.222.171:80/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2201020181031045244431576
 
 #EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png" group-title="LOKAL",INDOSIAR
 http://rr2.dens.tv/s/s04/index1.m3u8
